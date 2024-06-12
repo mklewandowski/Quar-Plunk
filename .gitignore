@@ -70,3 +70,20 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# VS config file
+.vsconfig
+
+# VS Code settings file
+/.vscode
+
+# Colorful plugin
+/[Aa]ssets/Colorful/
+/[Aa]ssets/Colorful.meta
+
+# TMPro plugin
+/[Aa]ssets/TextMesh Pro/
+/[Aa]ssets/TextMesh Pro.meta
+
+# Mac
+.DS_Store
